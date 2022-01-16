@@ -1,0 +1,101 @@
+{
+  "contractName": "smart",
+  "abi": [],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603580601d6000396000f3fe6080604052600080fdfea165627a7a72305820a3f70970da44396d9ae46f0df4846f3a160d9271f0caea461fe5a2ae1c62c05c0029",
+  "deployedBytecode": "0x6080604052600080fdfea165627a7a72305820a3f70970da44396d9ae46f0df4846f3a160d9271f0caea461fe5a2ae1c62c05c0029",
+  "sourceMap": "24:53:1:-;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;24:53:1;;;;;;;",
+  "deployedSourceMap": "24:53:1:-;;;;;",
+  "source": "pragma solidity 0.5.0;\n\ncontract smart {\n\t//Smart Contract Code goes here\n\t\n}",
+  "sourcePath": "/home/ad105/btechProject/src/contracts/smart.sol",
+  "ast": {
+    "absolutePath": "/home/ad105/btechProject/src/contracts/smart.sol",
+    "exportedSymbols": {
+      "smart": [
+        59
+      ]
+    },
+    "id": 60,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 58,
+        "literals": [
+          "solidity",
+          "0.5",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:22:1"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 59,
+        "linearizedBaseContracts": [
+          59
+        ],
+        "name": "smart",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 60,
+        "src": "24:53:1"
+      }
+    ],
+    "src": "0:77:1"
+  },
+  "legacyAST": {
+    "absolutePath": "/home/ad105/btechProject/src/contracts/smart.sol",
+    "exportedSymbols": {
+      "smart": [
+        59
+      ]
+    },
+    "id": 60,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 58,
+        "literals": [
+          "solidity",
+          "0.5",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:22:1"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 59,
+        "linearizedBaseContracts": [
+          59
+        ],
+        "name": "smart",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 60,
+        "src": "24:53:1"
+      }
+    ],
+    "src": "0:77:1"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.5.0+commit.1d4f565a.Emscripten.clang"
+  },
+  "networks": {},
+  "schemaVersion": "3.0.2",
+  "updatedAt": "2021-10-28T19:15:32.756Z",
+  "devdoc": {
+    "methods": {}
+  },
+  "userdoc": {
+    "methods": {}
+  }
+}
